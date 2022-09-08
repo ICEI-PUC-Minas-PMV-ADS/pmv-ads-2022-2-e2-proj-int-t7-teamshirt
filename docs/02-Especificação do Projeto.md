@@ -20,7 +20,7 @@ Localidade: Belo Horizonte, MG
 - Dificuldade de encontrar público a procura de produtos de colecionador em sua cidade;
 - Baixo alcance ao público alvo;
 - Pouco espaço físico em sua loja para poder expor os seus produtos a venda.
-### Hobbies e resumo história:
+### Hobbies, resumo e história:
 -Estaquio colecionou itens de esporte durante toda sua vida, aos 45 anos decidiu expandir a ideia e resolveu abrir uma pequena loja em casa para vender e adquirir novas peças.
 
 # Enzo Guttemberg
@@ -41,7 +41,7 @@ Localidade: Jaconia, BA
 ### Frustrações:
 - Não consegue achar camisetas autênticas com facilidade;
 - Mesmo podendo pagar um valor alto por cada produto, Enzo não consegue achar a maioria das camisetas que faltam para a sua coleção.
-### Hobbies e resumo história:
+### Hobbies, resumo e história:
 - Enzo herdou a paixão pelo ftebol do seu pai, que herdou de seu avô;
 - Desde novo ele segue aumentando a coleção que seu avô deixou após seu falecimento;
 - Ir ao Estádio de Futebol com seu pai aos finais de semana.
@@ -59,7 +59,7 @@ Localidade: Rio de Janeiro
 - Francisco quer alcançar pessoas que entendam que os produtos carregam sua história e compreendam o preço exigido por cada peça.
 ### Frustrações:
 - Dificuldade em passar credibilidade ao público através de sites de venda.
-### Hobbies e resumo história:
+### Hobbies, resumo e história:
 - Francisco acompanhou a história do futebol desde novo, cursou jornalismo e se especializou em jornalismo esportivo;
 - Ao longo da vida fez uma grande coleção de itens de futebol e agora sente que está na hora de vender esses pedacinhos de história para garantir sua aposentadoria.
 
@@ -79,7 +79,7 @@ Localidade: Rio Grande do Sul, RS
 ### Frustrações:
 - Dificuldade para encontrar produtos colecionáveis/raros de futebol na internet;
 - Incerteza se o produto vai ser entregue e se o produto é original.
-### Hobbies e resumo história:
+### Hobbies, resumo e história:
 - Clara é amante do futebol, gosta de assistir jogos de futebol e torcer para seu time do coração.
 
 # Arthur Souza
@@ -94,7 +94,7 @@ Ocupação: Mecânico, trabalha em diversas concessionárias de carros.
 ### Frustrações:
 - Muita dificuldade para encontrar essa camisa a venda na internet ou no varejo de sua cidade;
 - Pouca qualidade e disponibilidade dessa camisa, pois é um item raro.
-### Hobbies e resumo história:
+### Hobbies, resumo e história:
 - Arthur gosta de jogar futebol aos finais de semana com os amigos e também de assistir aos jogos.
 
 # Marcelo Falcão
@@ -113,7 +113,7 @@ Localidade: São Paulo, SP
 ### Frustrações:
 - Haters, que entram no seu canal para falar da má qualidade de alguns de seus produtos;
 - Não ter confiança de fazer investimentos na internet por fraudes em compras.
-### Hobbies e resumo história:
+### Hobbies, resumo e história:
 - Frequentador de festas e baladas;
 - Aptidão musical apresentada quando Marcelo era criança e foi presenteado com um violão.
 
