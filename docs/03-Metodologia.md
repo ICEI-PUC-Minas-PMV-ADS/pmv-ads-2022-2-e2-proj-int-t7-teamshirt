@@ -65,7 +65,7 @@ As tarefas do projeto são gerenciadas através do Projects do GitHub. Essa ferr
 
  A figura 3.1 apresenta a visão geral da ferramenta. As colunas que dividem as tarefas são descritas a seguir:
 
-<img src="C:\Users\Nayra\Documents\pmv-ads-2022-2-e2-proj-int-t7-teamshirt\docs\img\BACKLOG.jpg" />
+<img src="docs/img/BACKLOG.jpg" />
 
 | Ambiente | Plataforma | Links de Acesso |
 |----------|------------|-----------------|
