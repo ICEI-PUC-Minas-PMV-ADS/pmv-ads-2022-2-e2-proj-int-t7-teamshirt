@@ -1,6 +1,6 @@
 # Team Shirt
 
-`Curso: Análise e Desenvolvimento de Sistemas`
+`Análise e Desenvolvimento de Sistemas`
 
 `Projeto: Análise e Projeto de Sistemas de Software`
 
