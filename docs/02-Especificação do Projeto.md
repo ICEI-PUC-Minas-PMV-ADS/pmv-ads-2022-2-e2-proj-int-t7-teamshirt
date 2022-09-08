@@ -8,26 +8,26 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 Idade: 66
 Ocupação: Aposentado
 Localidade: Belo Horizonte, MG
-Aplicativos:
+### Aplicativos:
 - Instagram;
 - Facebook;
 - Whatsapp.
-Motivações:
+### Motivações:
 - Modernizar e expandir o seu negócio;
 - Alcançar o maior número possível de pessoas;
 - Desenvolver parcerias com pessoas entusiastas da área para alavancar o seu empreendimento.
-Frustrações:
+### Frustrações:
 - Dificuldade de encontrar público a procura de produtos de colecionador em sua cidade;
 - Baixo alcance ao público alvo;
 - Pouco espaço físico em sua loja para poder expor os seus produtos a venda.
-Hobbies e resumo história:
+### Hobbies e resumo história:
 -Estaquio colecionou itens de esporte durante toda sua vida, aos 45 anos decidiu expandir a ideia e resolveu abrir uma pequena loja em casa para vender e adquirir novas peças.
 
 # Enzo Guttemberg
 Idade: 28
 Ocupação: Engenheiro elétrico
 Localidade: Jaconia, BA
-Aplicativos:
+### Aplicativos:
 - Facebook;
 - Linkedin;
 - Aplicativos de banco;
@@ -35,13 +35,13 @@ Aplicativos:
 - Instagram;
 - Tiktok;
 - Twitter.
-Motivações:
+### Motivações:
 - Aumentar sua coleção de futebol da época de seu falecido avô;
 - Dar continuidade a tradição da família que foi passada de geração.
-Frustrações:
+### Frustrações:
 - Não consegue achar camisetas autênticas com facilidade;
 - Mesmo podendo pagar um valor alto por cada produto, Enzo não consegue achar a maioria das camisetas que faltam para a sua coleção.
-Hobbies e resumo história:
+### Hobbies e resumo história:
 - Enzo herdou a paixão pelo ftebol do seu pai, que herdou de seu avô;
 - Desde novo ele segue aumentando a coleção que seu avô deixou após seu falecimento;
 - Ir ao Estádio de Futebol com seu pai aos finais de semana.
@@ -50,12 +50,16 @@ Hobbies e resumo história:
 Idade: 50
 Ocupação: Jornalista
 Localidade: Rio de Janeiro
-Motivações:
+### Aplicativos:
+- Facebook;
+- Whatsapp;
+- Instagram.
+### Motivações:
 - Francisco acredita que pode ser bem sucedido se colocar sua coleção de camisetas de futebol à venda na internet;
 - Francisco quer alcançar pessoas que entendam que os produtos carregam sua história e compreendam o preço exigido por cada peça.
-Frustrações:
+### Frustrações:
 - Dificuldade em passar credibilidade ao público através de sites de venda.
-Hobbies e resumo história
+### Hobbies e resumo história:
 - Francisco acompanhou a história do futebol desde novo, cursou jornalismo e se especializou em jornalismo esportivo;
 - Ao longo da vida fez uma grande coleção de itens de futebol e agora sente que está na hora de vender esses pedacinhos de história para garantir sua aposentadoria.
 
@@ -63,48 +67,53 @@ Hobbies e resumo história
 Idade: 26
 Ocupação: Corretora
 Localidade: Rio Grande do Sul, RS
-Motivações:
+### Aplicativos:
+- Facebook;
+- Whatsapp;
+- Instagram;
+- Twitter.
+### Motivações:
 - Dar uma camisa de futebol ao seu namorado;
 - Ter confiança que o produto irá ser entregue;
 - Ter confiança que o produto de colecionador não vai ser falso ou de má qualidade.
-Frustrações:
+### Frustrações:
 - Dificuldade para encontrar produtos colecionáveis/raros de futebol na internet;
 - Incerteza se o produto vai ser entregue e se o produto é original.
-Hobbies e resumo história
+### Hobbies e resumo história:
 - Clara é amante do futebol, gosta de assistir jogos de futebol e torcer para seu time do coração.
 
 # Arthur Souza
 Idade: 45
 Ocupação: Mecânico, trabalha em diversas concessionárias de carros.
-Aplicativos:
+### Aplicativos:
 - Facebook;
 - Whatsapp.
-Motivações:
+### Motivações:
 - Como é ano de copa do mundo e Arthur é muito supersticioso, o mesmo gostaria de assistir os jogos da seleção vestindo a camisa da copa de 2002;
 - Tem o desejo de poder presentear membros de sua família com o mesmo produto, para poderem torcer juntos para a seleção.
-Frustrações:
+### Frustrações:
 - Muita dificuldade para encontrar essa camisa a venda na internet ou no varejo de sua cidade;
 - Pouca qualidade e disponibilidade dessa camisa, pois é um item raro.
-Hobbies e resumo história
+### Hobbies e resumo história:
 - Arthur gosta de jogar futebol aos finais de semana com os amigos e também de assistir aos jogos.
 
 # Marcelo Falcão
 Idade: 27
 Ocupação: Youtuber e influenciador digital.
 Localidade: São Paulo, SP
-Aplicativos:
+### Aplicativos:
 - Facebook;
 - Whatsapp;
 - Youtube;
 - Instagram.
-Motivações:
+### Motivações:
 - Atingir 10 milhões de seguidores;
 - Deseja ter repercursão no seu canal com reviews de produtos esportivos raros como camisas/chuteiras/bonés.
 - Investir na compra de produtos exclusivos e raros para poder obter lucro na venda dos mesmos futuramente.
-Frustrações:
+### Frustrações:
 - Haters, que entram no seu canal para falar da má qualidade de alguns de seus produtos;
 - Não ter confiança de fazer investimentos na internet por fraudes em compras.
-Hobbies e resumo história
+### Hobbies e resumo história:
 - Frequentador de festas e baladas;
 - Aptidão musical apresentada quando Marcelo era criança e foi presenteado com um violão.
 
