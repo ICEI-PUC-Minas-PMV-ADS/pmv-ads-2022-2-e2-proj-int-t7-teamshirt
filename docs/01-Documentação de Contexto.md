@@ -11,10 +11,6 @@ Conforme o que foi dito, se torna necessário que existam plataformas de compras
 
 Conforme exposto anteriormente, o problema a ser resolvido com este projeto visa resolver a ausência de portais de comércio na internet, onde os usuários possam encontrar itens raros, especialmente voltado para produtos de camisas de futebol retro. A criação de um site que atesta pela originalidade, entrega e a qualidade do produto. 
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
@@ -24,8 +20,6 @@ Como objetivos específicos:
 - Peças raras: camisas antigas e com poucas unidades no mercado;
 
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
@@ -38,8 +32,6 @@ Neste contexto, a criação de uma plataforma que foca em preservar o mercado de
 O desenvolvimento deste projeto ajudaria este público a decidir o destino de suas peças de maneira segura, além de facilitar o processo de comercialização do mesmo. Criando assim um "pedacinho da internet" para aqueles que são apaixonados por artigos esportivos.
 
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
@@ -47,8 +39,4 @@ Mesmo que qualquer pessoa possa usufruir dos produtos e serviços dispostos em n
 Desta forma, o público alvo foi estabelecido de forma a ser destinado a pessoas acima de 18 anos (como é um site de vendas, é necessário), e que têm o desejo de adquirir produtos que não são facilmente encontrados no mercado convencional justamente por serem camisas raras.
 
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+
