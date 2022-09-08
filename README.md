@@ -1,23 +1,26 @@
-# TÍTULO DO PROJETO
+# Team Shirt
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto: Análise e Projeto de Sistemas de Software`
 
-`SEMESTRE`
+`Semestre 2`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O Team Shirt é um projeto que está sendo desenvolvido buscando atingir a atender aos amantes de esportes através da venda de camisetas esportivas.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+* Gustavo Epifânio Silva
+* Henrique Gomes Maciel
+* Matheus de Jesus Santos
 * Nayra Alessandra Simão Reis
-* Nome completo do aluno 4
+* Raul Vitor de Resende
+* Roberto Rodrigues Gontijo 
+
 
 ## Orientador
 
-* Nome completo do professor 1
+* Luciana de Nardin
 
 ## Instruções de utilização
 
