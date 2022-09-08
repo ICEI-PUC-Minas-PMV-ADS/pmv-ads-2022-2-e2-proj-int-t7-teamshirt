@@ -8,7 +8,7 @@ A Metodologia apresenta as ferramentas e recursos utilizados pelo time para aux�
 
 A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+foi utilizado para hospedagem do repositório em ambiente web.
 
 O projeto segue a seguinte convenção para o nome de branches:
 
