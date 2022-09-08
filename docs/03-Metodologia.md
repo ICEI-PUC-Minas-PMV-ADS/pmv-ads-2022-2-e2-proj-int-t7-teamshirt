@@ -31,12 +31,13 @@ Para o processo de desenvolvimento do projeto, a equipe escolheu o método SCRUM
 
 ### Divisão de Papéis 
 
-A organização do time é a seguinte:
-Product Owner:
+A organização da equipe é dada da seguinte forma: 
+
+Product Owner
 
 • Gustavo Epifânio Silva
 
-Equipe de Desenvolvimento:
+Equipe de Desenvolvimento
 
 • Henrique Gomes Maciel
 
