@@ -5,6 +5,8 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 ## Personas
 
 # Eustaquio Motta
+![image](https://user-images.githubusercontent.com/103079348/189241377-e0884a2d-11dc-4610-8c33-18df14f36308.png)
+
 Idade: 66
 Ocupação: Aposentado
 Localidade: Belo Horizonte, MG
@@ -24,6 +26,9 @@ Localidade: Belo Horizonte, MG
 -Estaquio colecionou itens de esporte durante toda sua vida, aos 45 anos decidiu expandir a ideia e resolveu abrir uma pequena loja em casa para vender e adquirir novas peças.
 
 # Enzo Guttemberg
+![image](https://user-images.githubusercontent.com/103079348/189241337-c5678363-52b6-4a70-83aa-e29bb5bdd38c.png)
+
+
 Idade: 28
 Ocupação: Engenheiro elétrico
 Localidade: Jaconia, BA
@@ -47,6 +52,8 @@ Localidade: Jaconia, BA
 - Ir ao Estádio de Futebol com seu pai aos finais de semana.
 
 # Francisco Fagundes
+![image](https://user-images.githubusercontent.com/103079348/189241322-fe56fd55-3743-453e-878d-ad7fed8fadca.png)
+
 Idade: 50
 Ocupação: Jornalista
 Localidade: Rio de Janeiro
@@ -64,6 +71,8 @@ Localidade: Rio de Janeiro
 - Ao longo da vida fez uma grande coleção de itens de futebol e agora sente que está na hora de vender esses pedacinhos de história para garantir sua aposentadoria.
 
 # Clara Rezende
+![image](https://user-images.githubusercontent.com/103079348/189241277-a25d1f72-6ba9-4022-a3a1-4a39fce52516.png)
+
 Idade: 26
 Ocupação: Corretora
 Localidade: Rio Grande do Sul, RS
@@ -83,6 +92,8 @@ Localidade: Rio Grande do Sul, RS
 - Clara é amante do futebol, gosta de assistir jogos de futebol e torcer para seu time do coração.
 
 # Arthur Souza
+![image](https://user-images.githubusercontent.com/103079348/189241240-6a47d5e2-9007-42c3-ae46-27d1fe7e422c.png)
+
 Idade: 45
 Ocupação: Mecânico, trabalha em diversas concessionárias de carros.
 ### Aplicativos:
@@ -98,6 +109,8 @@ Ocupação: Mecânico, trabalha em diversas concessionárias de carros.
 - Arthur gosta de jogar futebol aos finais de semana com os amigos e também de assistir aos jogos.
 
 # Marcelo Falcão
+![image](https://user-images.githubusercontent.com/103079348/189241138-4444525d-3327-45d6-b017-9b1a84d799c0.png)
+
 Idade: 27
 Ocupação: Youtuber e influenciador digital.
 Localidade: São Paulo, SP
