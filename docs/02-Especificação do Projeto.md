@@ -159,29 +159,30 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| A aplicação deve ter uma homr page intuitiva e com o menu navegável. | ALTA | 
 |RF-002| A aplicação deve ter os produtos destacados na página inicial, como forma de sugestão ao usuário. | ALTA |
-|RF-003| A aplicação deve conter uma linguagem acessível para a maioria, com poucos termos técnicos.  | ALTA |
 |RF-004| Os preços devem ser explícitos para todos, melhorando a confiabilidade. | ALTA |
 |RF-005| A aplicação deve ter um breve resumo sobre quem somos. | MÉDIA |
 |RF-006| A aplicação deve conter uma página sobre política de trocas e devoluções e como realizar essas instruções. | MÉDIA |
-|RF-007| A aplicação deve conter um campo de busca para produtos. | MÉDIA |
-|RF-008| A aplicação deve apresentar um catálogo de seus produtos disponíveis. | MÉDIA |
-|RF-009| A aplicação deve apresentar uma área para cadastro e login de usuário. | ALTA |
-|RF-010| A aplicação deve apresentar uma área de carrinho em que o usuário irá adicionar seus itens para realização da compra. | ALTA |
-|RF-011| A aplicação deve apresentar um registro de pedidos do usuário. | MÉDIA |
-|RF-012| A aplicação deve conter na página do usuário acesso aos seus dados cadastrados para futurações alterações. | BAIXA |
-|RF-013| A aplicação deve conter uma área em que o usuário possa adicionar itens desejados para futuras compras. | BAIXA |
+|RF-007| A aplicação possibilitar ao usuário efetuar uma compra | ALTA |
+|RF-008| A aplicação deve conter um campo de busca para produtos. | MÉDIA |
+|RF-009| A aplicação deve apresentar um catálogo de seus produtos disponíveis. | MÉDIA |
+|RF-010| A aplicação deve apresentar uma área para cadastro e login de usuário. | ALTA |
+|RF-011| A aplicação deve apresentar uma área de carrinho em que o usuário irá adicionar seus itens para realização da compra. | ALTA |
+|RF-012| A aplicação deve apresentar um registro de pedidos do usuário. | MÉDIA |
+|RF-013| A aplicação deve conter na página do usuário acesso aos seus dados cadastrados para futurações alterações. | BAIXA |
+|RF-014| A aplicação deve conter uma área em que o usuário possa adicionar itens desejados para futuras compras. | BAIXA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku).  | ALTA | 
-|RNF-002| O site deverá ser responsivo permitido a visualização em um celular de forma adequada. |  ALTA |
-|RNF-003| O site deve ter bom nível de contraste entre os elementos da tela em conformidade. | MÉDIA |
-|RNF-004| O site deve ser compatível com as principais fontes e navegadores do mercado (Google Chrome, Firefox, Microsoft Edge). | ALTA |
-|RNF-005| Uso de componentes gráficos (grids, barras de rolagem, menus). | ALTA |
+|RNF-001| A aplicação deve ter uma home page intuitiva e com o menu navegável. | ALTA | 
+|RNF-002| A aplicação deve conter uma linguagem acessível para a maioria, com poucos termos técnicos.  | ALTA |
+|RNF-003| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku).  | ALTA | 
+|RNF-004| O site deverá ser responsivo. |  ALTA |
+|RNF-005| O site deve ter bom nível de contraste entre os elementos da tela em conformidade. | MÉDIA |
+|RNF-006| O site deve ser compatível com as principais fontes e navegadores do mercado (Google Chrome, Firefox, Microsoft Edge). | ALTA |
+|RNF-007| Uso de componentes gráficos (grids, barras de rolagem, menus). | ALTA |
 
 
 
@@ -194,6 +195,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |01| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku). |
 |02| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada. |
 |03| O site deve ter bom nível de contraste entre os elementos da tela em conformidade. |
+|04| O site contará com apenas uma unidade de cada produto, sendo possível apenas a compra de um produto. |
+
 
 
 
