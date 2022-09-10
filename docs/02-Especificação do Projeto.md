@@ -30,7 +30,7 @@ Localidade: Belo Horizonte, MG
 
 
 Idade: 28
-Ocupação: Engenheiro elétrico
+Ocupação: Engenheiro Eletricista
 Localidade: Jaconia, BA
 ### Aplicativos:
 - Facebook;
