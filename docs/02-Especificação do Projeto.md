@@ -199,7 +199,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |01| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku). |
 |02| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada. |
 |03| O site deve ter bom nível de contraste entre os elementos da tela em conformidade. |
-|04| O site contará com apenas uma unidade de cada produto, sendo possível apenas a compra de um produto. |
+|04| O site contará com apenas uma unidade de cada produto, não sendo possivel a compra de mais de uma unidade. |
 
 
 
