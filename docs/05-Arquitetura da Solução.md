@@ -10,8 +10,6 @@ O diagrama de classes ilustra graficamente como será a estrutura do software, e
 
 <img src= https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t7-teamshirt/blob/33fd0f1a73a485a763c77bec5154bd0985a99a1c/docs/img/PrintClasses.png/>
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Classes”.
-
 > - [Diagramas de Classes - Documentação da IBM](https://www.ibm.com/docs/pt-br/rational-soft-arch/9.6.1?topic=diagrams-class)
 > - [O que é um diagrama de classe UML? | Lucidchart](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml)
 
