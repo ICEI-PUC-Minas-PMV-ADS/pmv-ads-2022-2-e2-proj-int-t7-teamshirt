@@ -174,7 +174,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-011| A aplicação deve apresentar uma área de carrinho em que o usuário irá adicionar seus itens para realização da compra. | ALTA |
 |RF-012| A aplicação deve apresentar um registro de pedidos do usuário. | MÉDIA |
 |RF-013| A aplicação deve conter na página do usuário acesso aos seus dados cadastrados para futurações alterações. | BAIXA |
-|RF-014| A aplicação deve conter uma área em que o usuário possa adicionar itens desejados para futuras compras. | BAIXA |
+|RF-014| A aplicação deve conter uma área em que o administrador consiga gerenciar os produtos. | BAIXA |
 
 ### Requisitos não Funcionais
 
