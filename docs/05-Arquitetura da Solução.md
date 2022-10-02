@@ -19,7 +19,7 @@ A referência abaixo irá auxiliá-lo na geração do artefato “Modelo ER”.
 > - [Como fazer um diagrama entidade relacionamento | Lucidchart](https://www.lucidchart.com/pages/pt/como-fazer-um-diagrama-entidade-relacionamento)
 
 ## Projeto da Base de Dados
-<img src= >
+<img src= https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t7-teamshirt/blob/ec5567173e5afd94432cc784b53c6846deb5f3df/docs/img/diagramadebancodedados.jpeg >
 
 
 ## Tecnologias Utilizadas
