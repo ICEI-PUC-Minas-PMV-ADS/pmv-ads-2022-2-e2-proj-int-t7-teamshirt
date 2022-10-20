@@ -10,9 +10,13 @@ O Team Shirt é um projeto que está sendo desenvolvido buscando atingir a atend
 
 ## Integrantes
 
+* Gabrielle Alcantara Reis Silva
 * Gustavo Epifânio Silva
 * Henrique Gomes Maciel
+* Lucas Aquino dos Santos
+* LuísanValadares Vieira
 * Nayra Alessandra Simão Reis
+
 
 
 
