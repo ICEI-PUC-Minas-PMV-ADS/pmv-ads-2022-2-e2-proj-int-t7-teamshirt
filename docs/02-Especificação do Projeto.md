@@ -163,18 +163,19 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-002| A aplicação deve ter os produtos destacados na página inicial, como forma de sugestão ao usuário. | ALTA |
-|RF-004| Os preços devem ser explícitos para todos, melhorando a confiabilidade. | ALTA |
+|RF-001| A aplicação deve ter os produtos destacados na página inicial, como forma de sugestão ao usuário. | ALTA |
+|RF-002| Os preços devem ser explícitos para todos, melhorando a confiabilidade. | ALTA |
+|RF-003| A aplicação deve apresentar uma área para cadastro e login de usuário. | ALTA |
+|RF-004| A aplicação possibilitar ao usuário efetuar uma compra | ALTA |
 |RF-005| A aplicação deve ter um breve resumo sobre quem somos. | MÉDIA |
 |RF-006| A aplicação deve conter uma página sobre política de trocas e devoluções e como realizar essas instruções. | MÉDIA |
-|RF-007| A aplicação possibilitar ao usuário efetuar uma compra | ALTA |
-|RF-008| A aplicação deve conter um campo de busca para produtos. | MÉDIA |
-|RF-009| A aplicação deve apresentar um catálogo de seus produtos disponíveis. | MÉDIA |
-|RF-010| A aplicação deve apresentar uma área para cadastro e login de usuário. | ALTA |
-|RF-011| A aplicação deve apresentar uma área de carrinho em que o usuário irá adicionar seus itens para realização da compra. | ALTA |
-|RF-012| A aplicação deve apresentar um registro de pedidos do usuário. | MÉDIA |
-|RF-013| A aplicação deve conter na página do usuário acesso aos seus dados cadastrados para futurações alterações. | BAIXA |
-|RF-014| A aplicação deve conter uma área em que o administrador consiga gerenciar os produtos. | BAIXA |
+
+|RF-007| A aplicação deve conter um campo de busca para produtos. | MÉDIA |
+|RF-008| A aplicação deve apresentar um catálogo de seus produtos disponíveis. | MÉDIA |
+|RF-009| A aplicação deve apresentar uma área de carrinho em que o usuário irá adicionar seus itens para realização da compra. | ALTA |
+|RF-010| A aplicação deve apresentar um registro de pedidos do usuário. | MÉDIA |
+|RF-011| A aplicação deve conter na página do usuário acesso aos seus dados cadastrados para futurações alterações. | BAIXA |
+|RF-012| A aplicação deve conter uma área em que o administrador consiga gerenciar os produtos. | BAIXA |
 
 ### Requisitos não Funcionais
 
