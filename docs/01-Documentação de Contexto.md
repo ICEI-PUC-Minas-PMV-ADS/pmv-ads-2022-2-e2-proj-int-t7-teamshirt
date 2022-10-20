@@ -17,7 +17,7 @@ Conforme exposto anteriormente, o problema a ser resolvido com este projeto visa
 O objetivo geral deste trabalho é a criação de uma aplicação Web Front-End / Back-End que apresente uma plataforma em que usuários consigam efetuar a compra e venda de camisas raras esportivas sem serem lesados por algum tipo de golpe.
 Como objetivos específicos:
 - Camisas retro: camisas esportivas antigas;  
-- Peças raras: camisas antigas e com poucas unidades no mercado;
+- Peças raras: camisas antigas e com poucas unidades no mercado.
 
  
 

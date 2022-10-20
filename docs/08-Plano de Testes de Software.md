@@ -23,7 +23,7 @@
 |Critério de Êxito | - O site deve apresentar os produtos de forma clara e objetiva. <br> A aplicação deverá mostrar os preços em tela para os usuários. |
 |:---:	|:---:	|
 | **Caso de Teste** 	| **CT-03 – Visualizar produtos**|
-|Requisito Associado | RF-09	A aplicação deve apresentar uma área de carrinho em que o usuário irá adicionar seus itens para realização da compra.	 |
+|Requisito Associado | RF-009	A aplicação deve apresentar uma área de carrinho em que o usuário irá adicionar seus itens para realização da compra.	 |
 | Objetivo do Teste 	| Verificar se o carrinho de compras funciona corretamente. |
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site*** ***<br> Adicionar um item ao carrinho. <br> Clicar no ícone de carrinho, no canto superior direito. - <br> Visualizar os ítens no carrinho|
 |Critério de Êxito | - O site deve permitir a adição de ítens ao carrinho, bem como direcionamento para compra. |
