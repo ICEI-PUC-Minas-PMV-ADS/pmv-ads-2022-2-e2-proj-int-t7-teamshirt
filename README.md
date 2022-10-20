@@ -12,10 +12,8 @@ O Team Shirt é um projeto que está sendo desenvolvido buscando atingir a atend
 
 * Gustavo Epifânio Silva
 * Henrique Gomes Maciel
-* Matheus de Jesus Santos
 * Nayra Alessandra Simão Reis
-* Raul Vitor de Resende
-* Roberto Rodrigues Gontijo
+
 
 
 ## Orientador
