@@ -31,11 +31,7 @@ Localidade: Belo Horizonte, MG
 
 Idade: 28
 Ocupação: Engenheiro Eletricista
-<<<<<<< HEAD
 Localidade: Jaconia - BA
-=======
-Localidade: Jaconia, BA
->>>>>>> 4ab6e7a67cb4380ef87c0c3f179e9a8b4361af6d
 ### Aplicativos:
 - Facebook;
 - Linkedin;
