@@ -169,7 +169,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-004| A aplicação possibilitar ao usuário efetuar uma compra | ALTA |
 |RF-005| A aplicação deve ter um breve resumo sobre quem somos. | MÉDIA |
 |RF-006| A aplicação deve conter uma página sobre política de trocas e devoluções e como realizar essas instruções. | MÉDIA |
-
 |RF-007| A aplicação deve conter um campo de busca para produtos. | MÉDIA |
 |RF-008| A aplicação deve apresentar um catálogo de seus produtos disponíveis. | MÉDIA |
 |RF-009| A aplicação deve apresentar uma área de carrinho em que o usuário irá adicionar seus itens para realização da compra. | ALTA |
