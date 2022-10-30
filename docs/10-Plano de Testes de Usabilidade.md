@@ -16,6 +16,7 @@
 
 # Requisitos do ambiente/equipamento de teste:
   Os requisitos para realização dos testes são:
+  
   Conectividade de internet por dados móveis ou por banda larga;
   Navegador da internet - Chrome, Firefox, Safari ou Edge;
 
