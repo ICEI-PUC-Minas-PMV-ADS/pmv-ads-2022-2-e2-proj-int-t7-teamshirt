@@ -30,6 +30,14 @@
 | Perfil | Todos os usuários |
 | Objetivo do Teste | Avaliar a tela de login |
 | Ações necessárias |1. Acessar o Navegador;<br> 2. Informar o endereço do Site ;<br> 3. Visualizar a página de login ;<br> 4. Preencher o e-mail correto no campo indicado ;<br> 5. Preencher a senha correta no campo indicado ;<br> 6. Clicar em ‘Entrar’.|
+| Caso de Teste | CT 03 - Editar informações do perfil |
+| ------------- | -------------------------------- |
+| Perfil | Usuário cadastrado |
+| Objetivo do Teste | Analisar o funcionamento da edição e alteração de informações |
+| Ações necessárias |1. Acessar o Navegador;<br> 2. Informar o endereço do Site ;<br> 3. Realizar o login;<br> 4. Abrir o campo de “Minha Conta”;<br> 5. Selecionar a opção "Editar Perfil";<br> 6. Realizar as alterações desejadas clicando em cima do campo, deletando e adicionando a nova informação;<br> 7. Clicar em salvar;<br>|
+
+
+
 
  
 
