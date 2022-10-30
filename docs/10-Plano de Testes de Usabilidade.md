@@ -24,10 +24,7 @@
 | ------------- | -------------------------------- |
 | Perfil | Todos os usuários |
 | Objetivo do Teste | Avaliar a tela de cadastro de usuário |
-| Ações necessárias | Acessar a página inicial              
-                      Clicar na opção “Criar conta”
-                      Preencher os campos necessários do formulário
-                      Clicar em salvar                      |
+| Ações necessárias |1 Acessar a página inicial ;<br> 2 Clicar na opção “Criar conta” ;<br> 3 Preencher os campos necessários do formulário 4 Clicar em salvar |  
  
 
 
