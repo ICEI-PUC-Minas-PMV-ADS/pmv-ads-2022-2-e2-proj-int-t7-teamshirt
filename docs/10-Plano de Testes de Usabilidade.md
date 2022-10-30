@@ -20,7 +20,14 @@
   Conectividade de internet por dados móveis ou por banda larga;
   Navegador da internet - Chrome, Firefox, Safari ou Edge;
 
-
+| Caso de Teste | CT 01 - Cadastro de novo usuário |
+| Perfil | Todos os usuários |
+| Objetivo do Teste | Avaliar a tela de cadastro de usuário |
+| Ações necessárias | Acessar a página inicial
+Clicar na opção “Criar conta”
+Preencher os campos necessários do formulário
+Clicar em salvar | 
+ 
 
 
 
