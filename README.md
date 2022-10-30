@@ -14,7 +14,7 @@ O Team Shirt é um projeto que está sendo desenvolvido buscando atingir a atend
 * Gustavo Epifânio Silva
 * Henrique Gomes Maciel
 * Lucas Aquino dos Santos
-* LuísanValadares Vieira
+* Luísa Valadares Vieira
 * Nayra Alessandra Simão Reis
 
 
