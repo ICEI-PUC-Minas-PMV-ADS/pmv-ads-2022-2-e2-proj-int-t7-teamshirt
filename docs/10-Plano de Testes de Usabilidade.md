@@ -21,30 +21,29 @@
   Navegador da internet - Chrome, Firefox, Safari ou Edge;
 
 | Caso de Teste | CT 01 - Cadastro de novo usuário |
-| ------------- | -------------------------------- |
 | Perfil | Todos os usuários |
 | Objetivo do Teste | Avaliar a tela de cadastro de usuário |
 | Ações necessárias |1 Acessar a página inicial ;<br> 2 Clicar na opção “Criar conta” ;<br> 3 Preencher os campos necessários do formulário ;<br> 4 Clicar em salvar |
 | Caso de Teste | CT 02 - Login de usuário |
-| ------------- | -------------------------------- |
 | Perfil | Todos os usuários |
 | Objetivo do Teste | Avaliar a tela de login |
 | Ações necessárias |1. Acessar o Navegador;<br> 2. Informar o endereço do Site ;<br> 3. Visualizar a página de login ;<br> 4. Preencher o e-mail correto no campo indicado ;<br> 5. Preencher a senha correta no campo indicado ;<br> 6. Clicar em ‘Entrar’.|
 | Caso de Teste | CT 03 - Editar informações do perfil |
-| ------------- | -------------------------------- |
 | Perfil | Usuário cadastrado |
 | Objetivo do Teste | Analisar o funcionamento da edição e alteração de informações |
 | Ações necessárias |1. Acessar o Navegador;<br> 2. Informar o endereço do Site ;<br> 3. Realizar o login;<br> 4. Abrir o campo de “Minha Conta”;<br> 5. Selecionar a opção "Editar Perfil";<br> 6. Realizar as alterações desejadas clicando em cima do campo, deletando e adicionando a nova informação;<br> 7. Clicar em salvar;<br>|
 | Caso de Teste | CT 04 - Adicionar produtos no carrinho |
-| ------------- | -------------------------------- |
 | Perfil | Usuário cadastrado |
 | Objetivo do Teste | Analisar o funcionamento do carrinho de compras |
 | Ações necessárias |1. Acessar o Navegador;<br> 2. Informar o endereço do Site ;<br> 3. Realizar o login;<br> 4. Escolher os produtos desejados;<br> 5.Clicar em “Adicionar ao carrinho” |
 | Caso de Teste | CT 05 - Finalizar compra |
-| ------------- | -------------------------------- |
 | Perfil | Usuário logado |
 | Objetivo do Teste | Analisar o funcionamento do carrinho de compras |
 | Ações necessárias |1. Acessar o Navegador;<br> 2. Informar o endereço do Site ;<br> 3. Realizar o login ;<br> 4. Escolher os produtos desejados ;<br> 5.Clicar em “Adicionar ao carrinho” ;<br> 6. Selecionar as opções de pagamento;<br> 7. Preencher os dados necessários para o envio do produto;<br> 8. Finalizar a compra |
+| Caso de Teste | CT 06 - Recuperar senha |
+| Perfil | Usuário |
+| Objetivo do Teste | Verificar se a recuperação de senha funciona corretamente |
+| Ações necessárias |1. Acessar a página de login;<br> 2. Clicar em "Esqueci a Senha";<br> 3.  Preencher o e-mail da conta cadastrada e clicar no botão "Recuperar";<br> 4. Preencher os dados necessários e clicar em "Alterar senha"|
 
 
 
