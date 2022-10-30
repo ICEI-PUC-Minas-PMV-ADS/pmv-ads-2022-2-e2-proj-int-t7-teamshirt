@@ -35,6 +35,12 @@
 | Perfil | Usuário cadastrado |
 | Objetivo do Teste | Analisar o funcionamento da edição e alteração de informações |
 | Ações necessárias |1. Acessar o Navegador;<br> 2. Informar o endereço do Site ;<br> 3. Realizar o login;<br> 4. Abrir o campo de “Minha Conta”;<br> 5. Selecionar a opção "Editar Perfil";<br> 6. Realizar as alterações desejadas clicando em cima do campo, deletando e adicionando a nova informação;<br> 7. Clicar em salvar;<br>|
+| Caso de Teste | CT 04 - Adicionar produtos no carrinho |
+| ------------- | -------------------------------- |
+| Perfil | Usuário cadastrado |
+| Objetivo do Teste | Analisar o funcionamento do carrinho de compras |
+| Ações necessárias |1. Acessar o Navegador;<br> 2. Informar o endereço do Site ;<br> 3. Realizar o login;<br> 4. Escolher os produtos desejados;<br> 5.Clicar em “Adicionar ao carrinho” |
+
 
 
 
