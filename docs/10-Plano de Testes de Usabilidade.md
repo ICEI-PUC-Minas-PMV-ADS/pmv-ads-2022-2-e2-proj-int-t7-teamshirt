@@ -24,7 +24,13 @@
 | ------------- | -------------------------------- |
 | Perfil | Todos os usuários |
 | Objetivo do Teste | Avaliar a tela de cadastro de usuário |
-| Ações necessárias |1 Acessar a página inicial ;<br> 2 Clicar na opção “Criar conta” ;<br> 3 Preencher os campos necessários do formulário ;<br> 4 Clicar em salvar |  
+| Ações necessárias |1 Acessar a página inicial ;<br> 2 Clicar na opção “Criar conta” ;<br> 3 Preencher os campos necessários do formulário ;<br> 4 Clicar em salvar |
+| Caso de Teste | CT 02 - Login de usuário |
+| ------------- | -------------------------------- |
+| Perfil | Todos os usuários |
+| Objetivo do Teste | Avaliar a tela de login |
+| Ações necessárias |1. Acessar o Navegador;<br> 2. Informar o endereço do Site ;<br> 3. Visualizar a página de login ;<br> 4. Preencher o e-mail correto no campo indicado ;<br> 5. Preencher a senha correta no campo indicado ;<br> 6. Clicar em ‘Entrar’.|
+
  
 
 
