@@ -1,0 +1,62 @@
+﻿@model team_shirt.Models.Usuario
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="container">
+    <div class="row mt-1" style="height: 75vh">
+        <div class="col bg-white h-100" style="border-radius: 30px;">
+            <div class="row h-100">
+                <div class="col-7" style="background-image: url('/img/login-picture.png'); border-end-start-radius: 30px; border-start-start-radius: 30px">
+                </div>
+
+                <div class="col-5">
+                    <div class="row">
+                        <h1 class="font-weight-bold pt-5 pl-3">SEJA BEM VINDO!</h1>
+                    </div>
+
+                    <div class="row">
+                        <div class="col p-5">
+                            <form asp-action="Login">
+
+                                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                                <div class="form-group p-2">
+                                    <label asp-for="Email" class="control-label"></label>
+                                    <input asp-for="Email" class="form-control" />
+                                    <span asp-validation-for="Email" class="text-danger"></span>
+                                </div>
+
+                                <div class="form-group p-2">
+                                    <label asp-for="Senha" class="control-label"></label>
+                                    <input asp-for="Senha" class="form-control" />
+                                    <span asp-validation-for="Senha" class="text-danger"></span>
+                                </div>
+
+                                <div class="form-group p-1">
+                                    <input type="submit" value="Entrar" class="btn btn-primary" />
+                                </div>
+                            </form>
+
+                            <span class="text-danger">@ViewBag.Message</span>
+                        </div>
+                    </div>
+
+                    <div class="row mb-5">
+                        <div class="col text-center">
+                            <h4>Não possui conta?</h4>
+                            <a class="btn btn-primary" asp-controller="Usuario" asp-action="Create">Cadastre-se</a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
