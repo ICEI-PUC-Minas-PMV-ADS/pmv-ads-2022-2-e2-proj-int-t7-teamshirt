@@ -40,6 +40,11 @@
 | Perfil | Usuário cadastrado |
 | Objetivo do Teste | Analisar o funcionamento do carrinho de compras |
 | Ações necessárias |1. Acessar o Navegador;<br> 2. Informar o endereço do Site ;<br> 3. Realizar o login;<br> 4. Escolher os produtos desejados;<br> 5.Clicar em “Adicionar ao carrinho” |
+| Caso de Teste | CT 05 - Finalizar compra |
+| ------------- | -------------------------------- |
+| Perfil | Usuário logado |
+| Objetivo do Teste | Analisar o funcionamento do carrinho de compras |
+| Ações necessárias |1. Acessar o Navegador;<br> 2. Informar o endereço do Site ;<br> 3. Realizar o login ;<br> 4. Escolher os produtos desejados ;<br> 5.Clicar em “Adicionar ao carrinho” ;<br> 6. Selecionar as opções de pagamento;<br> 7. Preencher os dados necessários para o envio do produto;<br> 8. Finalizar a compra |
 
 
 
