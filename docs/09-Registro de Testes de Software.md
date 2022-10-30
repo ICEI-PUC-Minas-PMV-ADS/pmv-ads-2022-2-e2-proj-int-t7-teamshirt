@@ -20,7 +20,7 @@ O score dos testes segue a tabela mostrada no item anterior, assim foram realiza
 
   
 
-### CT - 01: 
+### CT - 01 | Cadastro de Usuário: 
 
   
 
@@ -35,15 +35,20 @@ Ao acessar a funcionalidade de cadastro o usuário clicara na tela de cadastro, 
 | Nome | Email | Senha |
 | ------------- | ------------- | ------------|
 
-<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t7-teamshirt/blob/e0bceacddda2c9319d712956fc4c70f4c64ad378/docs/img/CadastroPrinc.png>  
+<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t7-teamshirt/blob/4ca8588a1018ae5d13cf9f386d9a0bcdfa9895f6/docs/img/cadastro.png>  
 
 Clicando em Cadastrar:  
 A navegação volta para a tela de Login, para o Login do usuário.
 
-<img src>
- 
+<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t7-teamshirt/blob/4ca8588a1018ae5d13cf9f386d9a0bcdfa9895f6/docs/img/loginnew.png>
 
-| CT-01 | Cadastrar Perfil | 3 | 
+Clicando em entrar o site, retorna a Home com o usuário logado.
+<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t7-teamshirt/blob/4ca8588a1018ae5d13cf9f386d9a0bcdfa9895f6/docs/img/home.logada.png >
+ 
+| Código do Teste  | Descrição | Score |
+| ------------- | ------------- | ------------|
+| CT-01 | Cadastrar Perfil | 3 |
+
 
  
 
