@@ -28,7 +28,7 @@ O score dos testes segue a tabela mostrada no item anterior, assim foram realiza
 
 Na Home o usuário irá clicar em "ENTRAR", logo em seguida se o mesmo não possuir um cadastro na plataforma ele clicará em "CADASTRE-SE". 
 
-!()  
+<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t7-teamshirt/blob/e0bceacddda2c9319d712956fc4c70f4c64ad378/docs/img/homelogin.png>
 
   
 
@@ -40,7 +40,7 @@ Email
 
 Senha 
 
-!() 
+<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t7-teamshirt/blob/e0bceacddda2c9319d712956fc4c70f4c64ad378/docs/img/CadastroPrinc.png>
 
 Clicando em Cadastrar:  
 
