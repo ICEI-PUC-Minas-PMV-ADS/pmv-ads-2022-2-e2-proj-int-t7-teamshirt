@@ -1,15 +1,26 @@
 # Plano de Testes de Usabilidade
 
-Os testes de usabilidade permitem avaliar a qualidade da interface com o usuário da aplicação interativa.
+  Testes de funcionalidades e regras de negócios avaliam o funcionamento da ferramenta e sua aderência aos requisitos e especificações definidas na fase de planejamento do sistema. Testa-se, para cada componente, se o sistema responde corretamente às solicitações realizadas.
+  O teste de usabilidade permite avaliar a qualidade da interface com o usuário da aplicação interativa, utilizando uma avaliação por observação. Por meio dele, são recolhidos dados sobre comportamento, medindo e considerando as reações dos usuários diante de diferentes layouts e funcionalidades. Após sua realização, uma análise de usabilidade e das principais dificuldades é efetuada para realizar melhorias na plataforma, proporcionando uma melhor experiência ao usuário.
 
-Um plano de teste de usabilidade deverá conter: o detalhamento dos objetivos (em função dos requisitos levantados/implementados), dos critérios que serão utilizados para a seleção dos participantes, dos procedimentos a serem adotados pelos condutores de teste (por exemplo: os testes serão presenciais ou remotos? o método será observação direta, medição ou avaliação?), das tarefas a serem executadas, dos dados a serem coletados (quantidade de cliques, número de erros, tempo etc.), a ordem de execução das tarefas e das etapas da sessão de teste, recursos demandados, métricas coletadas etc.
+# Objetivos do teste:
+  O objetivo dos testes é identificar e corrigir eventuais problemas existentes na plataforma e averiguar quais são os obstáculos para uma utilização fluida da aplicação.
+  
+# Teste de aprendizado:
+  O modelo adotado será o de teste de experimentação, por meio do qual, para realizar uma tarefa específica, uma pessoa que lida com a ferramenta pela primeira vez terá que começar do zero.
+  Perguntas que a avaliação visa responder:
+  Os usuários conseguem transitar entre os principais módulos do sistema?
+  O tempo de resposta causa erros ou frustração?
+  As telas refletem o modelo conceitual do usuário?
+  Que obstáculos impedem que as tarefas sejam concluídas?
 
-Para cada voluntário do teste, é fundamental coletar e apresentar todos os dados/métricas previamente definidos, mas não se esqueça: atendendo à LGPD (Lei Geral de Proteção de Dados), nenhum dado sensível, que permita identificar o voluntário, deverá ser apresentado).
+# Requisitos do ambiente/equipamento de teste:
+  Os requisitos para realização dos testes são:
+  Conectividade de internet por dados móveis ou por banda larga;
+  Navegador da internet - Chrome, Firefox, Safari ou Edge;
 
-As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Testes de Usabilidade".
 
-> **Links Úteis**:
-> - [Teste De Usabilidade: O Que É e Como Fazer Passo a Passo (neilpatel.com)](https://neilpatel.com/br/blog/teste-de-usabilidade/)
-> - [Teste de usabilidade: tudo o que você precisa saber! | by Jon Vieira | Aela.io | Medium](https://medium.com/aela/teste-de-usabilidade-o-que-voc%C3%AA-precisa-saber-39a36343d9a6/)
-> - [Planejando testes de usabilidade: o que (e o que não) fazer | iMasters](https://imasters.com.br/design-ux/planejando-testes-de-usabilidade-o-que-e-o-que-nao-fazer/)
-> - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+
+
+
+
