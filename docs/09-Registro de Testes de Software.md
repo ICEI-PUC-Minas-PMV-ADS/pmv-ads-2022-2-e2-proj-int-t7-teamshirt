@@ -1,10 +1,14 @@
+# Registro de Testes de Software 
+
+  
+
 Foram realizados os testes conforme o Plano de Testes de Software: 
 
   
 
 | Código do Teste | Descrição | Score | 
 
-
+|---------------------|-----------------------|-------------| 
 
 | CT-01 | Cadastrar Perfil | 3 | 
 
@@ -28,7 +32,7 @@ O score dos testes segue a tabela mostrada no item anterior, assim foram realiza
 
 Na Home o usuário irá clicar em "ENTRAR", logo em seguida se o mesmo não possuir um cadastro na plataforma ele clicará em "CADASTRE-SE". 
 
-<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t7-teamshirt/blob/e0bceacddda2c9319d712956fc4c70f4c64ad378/docs/img/homelogin.png>
+<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t7-teamshirt/blob/e0bceacddda2c9319d712956fc4c70f4c64ad378/docs/img/homelogin.png>  
 
   
 
@@ -40,17 +44,13 @@ Email
 
 Senha 
 
-<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t7-teamshirt/blob/e0bceacddda2c9319d712956fc4c70f4c64ad378/docs/img/CadastroPrinc.png>
-
-Clicando em Cadastrar:  
+<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t7-teamshirt/blob/e0bceacddda2c9319d712956fc4c70f4c64ad378/docs/img/CadastroPrinc.png> Clicando em Cadastrar:  
 
 A navegação é interrompida, possivelmente porque o site não está hospedado. 
 
-!() 
+| CT-01 | Cadastrar Perfil | 1 | 
 
-## Avaliação
-
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+ 
 
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
