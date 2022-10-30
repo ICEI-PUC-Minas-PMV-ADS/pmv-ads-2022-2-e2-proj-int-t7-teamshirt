@@ -43,7 +43,8 @@
 | Caso de Teste | CT 06 - Recuperar senha |
 | Perfil | Usuário |
 | Objetivo do Teste | Verificar se a recuperação de senha funciona corretamente |
-| Ações necessárias |1. Acessar a página de login;<br> 2. Clicar em "Esqueci a Senha";<br> 3.  Preencher o e-mail da conta cadastrada e clicar no botão "Recuperar";<br> 4. Preencher os dados necessários e clicar em "Alterar senha"|
+| Ações necessárias |1. Acessar a página de login;<br> 2. Clicar em "Esqueci a Senha";<br> 3.  Preencher o e-mail da conta cadastrada e clicar no botão "Recuperar";<br> 4. Preencher os dados necessários e clicar em "Alterar senha"
+|
 
 
 
