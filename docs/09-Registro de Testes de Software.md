@@ -4,7 +4,7 @@ Foram realizados os testes conforme o Plano de Testes de Software:
 
 | Código do Teste | Descrição | Score | 
 
-|---------------------|-----------------------|-------------| 
+
 
 | CT-01 | Cadastrar Perfil | 3 | 
 
