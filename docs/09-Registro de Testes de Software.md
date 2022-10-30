@@ -38,16 +38,39 @@ Ao acessar a funcionalidade de cadastro o usuário clicara na tela de cadastro, 
 <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t7-teamshirt/blob/4ca8588a1018ae5d13cf9f386d9a0bcdfa9895f6/docs/img/cadastro.png>  
 
 Clicando em Cadastrar:  
+
 A navegação volta para a tela de Login, para o Login do usuário.
 
 <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t7-teamshirt/blob/4ca8588a1018ae5d13cf9f386d9a0bcdfa9895f6/docs/img/loginnew.png>
 
 Clicando em entrar o site, retorna a Home com o usuário logado.
+
 <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t7-teamshirt/blob/4ca8588a1018ae5d13cf9f386d9a0bcdfa9895f6/docs/img/home.logada.png >
  
 | Código do Teste  | Descrição | Score |
 | ------------- | ------------- | ------------|
 | CT-01 | Cadastrar Perfil | 3 |
+
+### CT - 02 | Login:
+Na Home o usuario Clica em "Entrar".
+<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t7-teamshirt/blob/deca0e68e0b822f74648a63cf676a5488b5edda3/docs/img/home.marcada.png>
+
+Logo em seguida a navegação direciona o usuario a pagina de Login, requisitando os dados de acesso:
+
+| E-mail | Senha |
+| ------------- | ------------- |
+
+<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t7-teamshirt/blob/deca0e68e0b822f74648a63cf676a5488b5edda3/docs/img/loginnew.png>
+
+Ao clicar em Entrar, o usuario resgistrado será direcionado para a pagina Home.
+
+<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t7-teamshirt/blob/4ca8588a1018ae5d13cf9f386d9a0bcdfa9895f6/docs/img/home.logada.png >
+
+| Código do Teste  | Descrição | Score |
+| ------------- | ------------- | ------------|
+| CT-02 | Login | 3 |
+
+
 
 
  
