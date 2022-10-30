@@ -21,6 +21,7 @@
   Navegador da internet - Chrome, Firefox, Safari ou Edge;
 
 | Caso de Teste | CT 01 - Cadastro de novo usuário |
+| ---------------- | -------------------------------|
 | Perfil | Todos os usuários |
 | Objetivo do Teste | Avaliar a tela de cadastro de usuário |
 | Ações necessárias |1 Acessar a página inicial ;<br> 2 Clicar na opção “Criar conta” ;<br> 3 Preencher os campos necessários do formulário ;<br> 4 Clicar em salvar |
