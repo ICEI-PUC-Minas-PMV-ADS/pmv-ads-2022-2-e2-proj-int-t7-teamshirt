@@ -12,17 +12,27 @@ a.navbar-brand {
 }
 
 .navbar-dark {
-    background-color: #192734
+    background-color: #192734;
 }
 
 
 .navbar-light {
-    background-color: #D9D9D9
+    background-color: #D9D9D9;
 }
 
 .bg-dark {
     background-color: #192734
 }
+
+.card-text {
+    color: orange;
+    font-size: x-large;
+    font-weight: bold;
+    text-align:center;
+}
+
+
+
 
 /* Provide sufficient contrast against white background */
 a {
