@@ -11,5 +11,9 @@ namespace team_shirt.Data
         }
 
         public DbSet<Usuario> Usuario { get; set; }
+
+        public DbSet<team_shirt.Models.Produto> Produto { get; set; }
+
+        public DbSet<team_shirt.Models.Categoria> Categoria { get; set; }
     }
 }
