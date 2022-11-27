@@ -4,78 +4,74 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
-<div class="row mt-1" style="height: 75vh; max-width: 100%;">
-    <div class="col bg-white h-200" style="border-radius: 30px;">
-        <div class="row h-100">
-            <div class="col-5">
-                <div class="row">
-                    <h1 class="font-weight-bold pt-5 pl-5">Cadastre seu Produto!</h1>
-                </div>
-                <p>
-                    <a asp-action="Create" class="btn btn-primary">Create New</a>
-                </p>
-                <table class="table">
-                    <thead>
-                        <tr>
-                            <th>
-                                @Html.DisplayNameFor(model => model.Nome)
-                            </th>
-                            <th>
-                                @Html.DisplayNameFor(model => model.Descricao)
-                            </th>
-                            <th>
-                                @Html.DisplayNameFor(model => model.Preco)
-                            </th>
-                            <th>
-                                @Html.DisplayNameFor(model => model.Quantidade)
-                            </th>
-                            <th>
-                                @Html.DisplayNameFor(model => model.CaminhoImagem)
-                            </th>
-                            <th>
-                                @Html.DisplayNameFor(model => model.NomeImagem)
-                            </th>
-                            <th>
-                                @Html.DisplayNameFor(model => model.Categoria)
-                            </th>
-                            <th></th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        @foreach (var item in Model)
-                        {
-            <tr>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Nome)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Descricao)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Preco)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Quantidade)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.CaminhoImagem)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.NomeImagem)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Categoria.Nome)
-                </td>
-                <td>
-                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-                </td>
-            </tr>}
-                    </tbody>
-                </table>
-            </div>
+
+<div class="container">
+    <div class="bg-white" style="border-radius: 30px;">
+
+
+        <div class="row">
+            <h1 class="font-weight-bold pt-5 pl-5">Cadastre seu Produto!</h1>
         </div>
+        <p>
+            <a asp-action="Create" class="btn btn-success m-1">Criar Novo Produto</a>
+        </p>
+        <table class="table text-center">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Nome)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Descricao)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Preco)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Quantidade)
+                    </th>
+                    <th>
+
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Categoria)
+                    </th>
+                    <th>
+
+                    </th>
+
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Nome)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Descricao)
+                        </td>
+                        <td style="color:#EA673E">
+                            R$@Html.DisplayFor(modelItem => item.Preco)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Quantidade)
+                        </td>
+                        <td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Categoria.Nome)
+                        </td>
+                        <td>
+                            <a class="btn btn-success" asp-action="Edit" asp-route-id="@item.Id">Editar</a> 
+                            <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Excluir</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+
     </div>
 </div>

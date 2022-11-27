@@ -5,69 +5,69 @@
 }
 
 <div class="container">
-    <div class="row mt-1" style="height: 75vh; max-width: 100%;">
-        <div class="col bg-white h-200" style="border-radius: 30px;">
-            <div class="row h-100">
-                <div class="col-5">
-                    <div class="row">
-                        <h1 class="font-weight-bold pt-5 pl-5">Cadastre seu Produto!</h1>
-                    </div>
-                 
-                       
-                        <div class="col-5">
-                            <form asp-action="Create">
-                                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-                                <div class="form-group" style="width: 400px">
-                                    <label asp-for="Nome" class="control-label"></label>
-                                    <input asp-for="Nome" class="form-control" />
-                                    <span asp-validation-for="Nome" class="text-danger"></span>
-                                </div>
-                                <div class="form-group" style="width: 400px">
-                                    <label asp-for="Descricao" class="control-label"></label>
-                                    <input asp-for="Descricao" class="form-control" />
-                                    <span asp-validation-for="Descricao" class="text-danger"></span>
-                                </div>
-                                <div class="form-group" style="width: 400px">
-                                    <label asp-for="Preco" class="control-label"></label>
-                                    <input asp-for="Preco" class="form-control" />
-                                    <span asp-validation-for="Preco" class="text-danger"></span>
-                                </div>
-                                <div class="form-group" style="width: 400px">
-                                    <label asp-for="Quantidade" class="control-label"></label>
-                                    <input asp-for="Quantidade" class="form-control" />
-                                    <span asp-validation-for="Quantidade" class="text-danger"></span>
-                                </div>
-                                <div class="form-group" style="width: 400px">
-                                    <label asp-for="CaminhoImagem" class="control-label"></label>
-                                    <input asp-for="CaminhoImagem" class="form-control" />
-                                    <span asp-validation-for="CaminhoImagem" class="text-danger"></span>
-                                </div>
-                                <div class="form-group" style="width: 400px">
-                                    <label asp-for="NomeImagem" class="control-label"></label>
-                                    <input asp-for="NomeImagem" class="form-control" />
-                                    <span asp-validation-for="NomeImagem" class="text-danger"></span>
-                                </div>
-                                <div class="form-group" style="width: 400px">
-                                    <label asp-for="CategoriaId" class="control-label"></label>
-                                    <select asp-for="CategoriaId" class="form-control" asp-items="ViewBag.CategoriaId"></select>
-                                </div>
-                                <div class="form-group" style="width: 400px">
-                                    <input type="submit" value="Create" class="btn btn-primary" />
-                                </div>
-                                <div>
-                                    <a asp-action="Index" class="btn btn-primary">Back to List</a>
-                                </div>
-                            </form>
+    <div class="mt-1">
+        <div class="bg-white" style="border-radius: 30px;">
+          
+            <div class="conteiner">
+                <div class="row">
+                    <h1 class="text-center font-weight-bold pt-5 pl-5">Cadastre seu Produto:</h1>
+                </div>
+
+
+                <div class="text-center font-weight-bold justify-content-center m-2">
+                    <form asp-action="Create">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="form-group">
+                            <label asp-for="Nome" class="control-label"></label>
+                            <input asp-for="Nome" class="form-control" />
+                            <span asp-validation-for="Nome" class="text-danger"></span>
                         </div>
-                    </div>
+                        <div class="form-group">
+                            <label asp-for="Descricao" class="control-label"></label>
+                            <input asp-for="Descricao" class="form-control" />
+                            <span asp-validation-for="Descricao" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Preco" class="control-label"></label>
+                            <input asp-for="Preco" class="form-control" />
+                            <span asp-validation-for="Preco" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Quantidade" class="control-label"></label>
+                            <input asp-for="Quantidade" class="form-control" />
+                            <span asp-validation-for="Quantidade" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="CaminhoImagem" class="control-label"></label>
+                            <input asp-for="CaminhoImagem" class="form-control" />
+                            <span asp-validation-for="CaminhoImagem" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="NomeImagem" class="control-label"></label>
+                            <input asp-for="NomeImagem" class="form-control" />
+                            <span asp-validation-for="NomeImagem" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="CategoriaId" class="control-label"></label>
+                            <select asp-for="CategoriaId" class="form-control" asp-items="ViewBag.CategoriaId"></select>
+                        </div>
+                        <div class="form-group">
+                            <input type="submit" value="Criar Novo Produto" class="btn btn-primary btn-block m-1" />
+                        </div>
+                        <div>
+                            <a asp-action="Index" class="btn btn-secondary btn-block m-1">Voltar</a>
+                        </div>
+                    </form>
                 </div>
             </div>
         </div>
     </div>
+</div>
 
 
-            
 
-                    @section Scripts {
-                        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
-                    }
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

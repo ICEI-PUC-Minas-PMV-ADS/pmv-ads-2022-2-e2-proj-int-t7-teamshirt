@@ -4,60 +4,74 @@
     ViewData["Title"] = "Delete";
 }
 
-<h1>Delete</h1>
+<div class="container text-center">
+    <div class="bg-white" style="border-radius: 30px">
 
-<h3>Are you sure you want to delete this?</h3>
-<div>
-    <h4>Produto</h4>
-    <hr />
-    <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Nome)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Nome)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Descricao)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Descricao)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Preco)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Preco)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Quantidade)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Quantidade)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.CaminhoImagem)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.CaminhoImagem)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.NomeImagem)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.NomeImagem)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Categoria)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Categoria.Nome)
-        </dd class>
-    </dl>
-    
-    <form asp-action="Delete">
-        <input type="hidden" asp-for="Id" />
-        <input type="submit" value="Delete" class="btn btn-danger" /> |
-        <a asp-action="Index">Back to List</a>
-    </form>
+        <div class="container">
+            <h1>Realmente Deseja Excluir o Produto?</h1>
+            <div class="container">
+                <div>
+                    <h1 class="font-weight-bold pt-5 pl-5">Produto</h1>
+                    <hr />
+                    <dl class="table text-center">
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Nome)
+                        </dt>
+                        <dd>
+                            @Html.DisplayFor(model => model.Nome)
+                        </dd>
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Descricao)
+                        </dt>
+                        <dd>
+                            @Html.DisplayFor(model => model.Descricao)
+                        </dd>
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Preco)
+                        </dt>
+                        <dd>
+                            @Html.DisplayFor(model => model.Preco)
+                        </dd>
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Quantidade)
+                        </dt>
+                        <dd>
+                            @Html.DisplayFor(model => model.Quantidade)
+                        </dd>
+                        <dt>
+                            @Html.DisplayNameFor(model => model.CaminhoImagem)
+                        </dt>
+                        <dd>
+                            @Html.DisplayFor(model => model.CaminhoImagem)
+                        </dd>
+                        <dt>
+                            @Html.DisplayNameFor(model => model.NomeImagem)
+                        </dt>
+                        <dd>
+                            @Html.DisplayFor(model => model.NomeImagem)
+                        </dd>
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Categoria)
+                        </dt>
+                        <dd>
+                            @Html.DisplayFor(model => model.Categoria.Nome)
+                        </dd>
+                    </dl>
+
+                    <form asp-action="Delete">
+                        <input type="hidden" asp-for="Id" />
+                        <input type="submit" value="EXCLUIR" class="btn btn-danger" /> |
+                        <a class="btn btn-secondary" asp-action="Index">Voltar a lista</a>
+                    </form>
+                    <br />
+                </div>
+
+
+            </div>
+        </div>
+            
+
+
+
+    </div>
 </div>
