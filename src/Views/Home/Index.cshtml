@@ -1,35 +1,47 @@
-﻿@{
+﻿@model List<Produto>
+
+@{
     ViewData["Title"] = "Home Page";
 }
 
 <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light box-shadow">
-    <div class="container-fluid">
+    <div class="container">
         <ul class="navbar-nav">
             <li class="nav-item">
-                <h4 class="nav-link font-weight-bold text-dark m-0 py-2">Promoções</h4>
+                <a class="nav-link font-weight-bold text-dark m-0 py-2" asp-controller="Produto" asp-action="Index">Produtos</a>
             </li>
             <li class="nav-item">
-                <h4 class="nav-link font-weight-bold text-dark m-0 py-2">Masculino</h4>
-            </li>
-            <li class="nav-item">
-                <h4 class="nav-link font-weight-bold text-dark m-0 py-2">Feminino</h4>
-            </li>
-            <li class="nav-item">
-                <h4 class="nav-link font-weight-bold text-dark m-0 py-2">Infantil</h4>
+                <a class="nav-link font-weight-bold text-dark m-0 py-2" asp-controller="Categoria" asp-action="Index">Categorias</a>
             </li>
         </ul>
     </div>
 </nav>
 
-<div class="row">
-    <div class="col">
-        <img src="/img/home-picture.png" class="w-100"/>
-    </div>
+<div class="container row text-center">
+    @foreach (var item in Model)
+    {
+
+
+        <div class="card col-3 m-2" style="width: 14rem;">
+            <img class="card-img-top" src=~/img/camisa97.jpg alt="Card image cap">
+
+            <div class="card-body">
+                <h5 class="card-title">@Html.DisplayFor(modelItem => item.Nome)</h5>
+                <p class="card-text">@Html.DisplayFor(modelItem => item.Descricao)</p>
+                <h11 id= "valor" class="">R$ @Html.DisplayFor(modelItem => item.Preco)</h11>
+                <a asp-controller="#" asp-action="#" class="btn btn-success btn-block">COMPRAR</a>
+            </div>
+
+
+        </div>
+
+
+    }
 </div>
 
-<div class="row">
-    <div class="col bg-white text-center" style="height: 25vh">
-        <h3 class="text-dark pt-2">Destaques</h3>
-        <hr />
-    </div>
-</div>
+        <div class="row">
+            <div class="col bg-white text-center" style="height: 25vh">
+                <h3 class="text-dark pt-2">Destaques</h3>
+                <hr />
+            </div>
+        </div>

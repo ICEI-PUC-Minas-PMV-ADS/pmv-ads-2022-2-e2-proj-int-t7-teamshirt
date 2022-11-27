@@ -9,6 +9,7 @@ namespace team_shirt.Models
         public int Id { get; set; }
 
         [Required]
+        [Display(Name = "Nome")]
         public string Nome { get; set; }
 
         public string Descricao { get; set; }

@@ -44,6 +44,8 @@ namespace team_shirt
                     options.LoginPath = "/Usuario/Login/";
                 });
 
+            
+
             services.AddControllersWithViews();
         }
 
