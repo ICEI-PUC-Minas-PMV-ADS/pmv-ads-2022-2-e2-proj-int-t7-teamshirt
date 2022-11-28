@@ -36,7 +36,7 @@
 | Caso de Teste | CT 04 - Adicionar produtos |
 | Perfil | Usuário cadastrado |
 | Objetivo do Teste | Analisar o funcionamento da inclusão de produtos |
-| Ações necessárias |1. Acessar o Navegador;<br> 2. Informar o endereço do Site ;<br> 3. Realizar o login;<br> 4. Cadastrar produtos;<br> 5.Clicar em “Cadastrar Produto” |
+| Ações necessárias |1. Acessar o Navegador;<br> 2. Informar o endereço do Site ;<br> 3. Realizar o login;<br> 4. Cadastrar produtos;<br> 5.Clicar em “Criar novo Produto” |
 | Caso de Teste | CT 05 - Finalizar compra |
 | Perfil | Usuário logado |
 | Objetivo do Teste | Analisar o funcionamento do carrinho de compras |
