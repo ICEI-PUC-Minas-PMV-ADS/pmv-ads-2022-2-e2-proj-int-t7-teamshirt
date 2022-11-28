@@ -13,3 +13,6 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Registro de
 | --- 	| --- 	| --- | ---  | --- | --- | --- |
 | Usuário 1	| CTU-02 	| 00:01:03s | 4 | 0 | --- |  Usuario achou intuitivo |
 
+| **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
+| --- 	| --- 	| --- | ---  | --- | --- | --- |
+| Usuário 1	| CTU-04 	| 00:02: 04s | 14 | 0 | --- |  Usuario achou fácil o cadastro de produtos|
