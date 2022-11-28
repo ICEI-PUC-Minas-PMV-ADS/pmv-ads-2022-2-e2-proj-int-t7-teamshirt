@@ -7,73 +7,86 @@ Foram realizados os testes conforme o Plano de Testes de Software:
   
 | Código do Teste  | Descrição | Score |
 | ------------- | ------------- | ------------|
-| CT-01 | Cadastrar Perfil | 3 |
-| CT-02  | Efetuar Login | 3 |
-| CT-03 | Visualizar Produtos | 3 | 
+| CT-01 | Cadastrar Perfil | 3 -- 0 |
+| CT-02 | Efetuar Login | 3 -- 0 | 
+| CT-04 | Cadastrar Produtos | 3 -- 0 | 
+| CT-05 | Editar Produtos | 3 -- 0 | 
+| CT-06 | Excluir Produtos | 3 -- 0 | 
+| CT-07 | Visualizar Produtos | 3 -- 0 |
+| CT-08 | Logout | 3 -- 0 |
   
 
-O score dos testes segue a tabela mostrada no item anterior, assim foram realizados os testes da seguinte forma. 
+O Score será a nota que cada funcionalidade irá receber onde 3 = MAX -- 0 = MÍN  . 
 
   
 
 ## Testes de Funcionalidade: 
 
   
+| Testes 	| CT-01 – Cadastrar perfil e CT-02 – Efetuar login	|
+|:---:	|:---:	|
+|	Vídeo 	|  <video src= https://user-images.githubusercontent.com/103158471/204174825-8e95060d-9539-4bdb-93e4-2d847a7a4435.mp>| 
+  
+| Código do Teste  | Descrição | Score |
+| ------------- | ------------- | ------------|
+| CT-01 | Cadastrar Perfil | 3 |  
+  
+| Código do Teste  | Descrição | Score |
+| ------------- | ------------- | ------------|
+| CT-02 | Efetuar Login | 3 |
 
-### CT - 01 | Cadastro de Usuário: 
+
+| Testes 	| CT-03 – Cadastrar produtos e CT-04 – Editar Produtos	|
+|:---:	|:---:	|
+|	Vídeo 	|  <video src= https://user-images.githubusercontent.com/103158471/204175326-158a804d-98a7-4b84-8c8c-447999040031.mp4>|
+|	Vídeo Edição de Produtos	|  <video src= https://user-images.githubusercontent.com/103158471/204175416-97da3669-be42-441a-b56f-a0a4b97aea56.mp4>|
+  
+| Código do Teste  | Descrição | Score |
+| ------------- | ------------- | ------------|
+| CT-03 | Cadastrar Produto | 3 |
+  
+| Código do Teste  | Descrição | Score |
+| ------------- | ------------- | ------------|
+| CT-04 | Editar Produto | 3 |
+
+| Testes 	| CT-05 – Excluir Produto 	|
+|:---:	|:---:	|
+|	Vídeo 	|  <video src= https://user-images.githubusercontent.com/103158471/204176088-c4caa2f3-efbd-454c-b643-5944bbeccf1e.mp4>|
+  
+| Código do Teste  | Descrição | Score |
+| ------------- | ------------- | ------------|
+| CT-05 | Excluir Produto | 3 |
+  
+| Testes 	| CT-07 – Visualisar Produtos Cadastrados na HomePage 	|
+|:---:	|:---:	|
+|	Vídeo 	|  <video src= https://user-images.githubusercontent.com/103158471/204177341-518a0695-c452-4d25-89d7-2d95b91fe96c.mp4>|
+  
+| Código do Teste  | Descrição | Score |
+| ------------- | ------------- | ------------|
+| CT-07 | Visualisar Produtos Cadastrados na HomePage| 3 |
+  
+| Testes 	| CT-08 – Logout	|
+|:---:	|:---:	|
+|	Vídeo 	|  <video src= https://user-images.githubusercontent.com/103158471/204176329-15ed3f94-a715-4213-84d2-c453be1b2b57.mp4>|
+
+| Código do Teste  | Descrição | Score |
+| ------------- | ------------- | ------------|
+| CT-08 | Logout | 3 |
+  
+
+
+
+
+
 
   
 
-Na Home o usuário irá clicar em "ENTRAR", logo em seguida se o mesmo não possuir um cadastro na plataforma ele clicará em "CADASTRE-SE". 
 
-<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t7-teamshirt/blob/e0bceacddda2c9319d712956fc4c70f4c64ad378/docs/img/homelogin.png>  
 
-  
-
-Ao acessar a funcionalidade de cadastro o usuário clicara na tela de cadastro, preenchendo os campos: 
-
-| Nome | Email | Senha |
-| ------------- | ------------- | ------------|
-
-<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t7-teamshirt/blob/4ca8588a1018ae5d13cf9f386d9a0bcdfa9895f6/docs/img/cadastro.png>  
-
-Clicando em Cadastrar:  
-
-A navegação volta para a tela de Login, para o Login do usuário.
-
-<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t7-teamshirt/blob/4ca8588a1018ae5d13cf9f386d9a0bcdfa9895f6/docs/img/loginnew.png>
-
-Clicando em entrar o site, retorna a Home com o usuário logado.
-
-<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t7-teamshirt/blob/4ca8588a1018ae5d13cf9f386d9a0bcdfa9895f6/docs/img/home.logada.png >
- 
-| Código do Teste  | Descrição | Score |
-| ------------- | ------------- | ------------|
-| CT-01 | Cadastrar Perfil | 3 |
-
-### CT - 02 | Login:
-Na Home o usuario Clica em "Entrar".
-<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t7-teamshirt/blob/deca0e68e0b822f74648a63cf676a5488b5edda3/docs/img/home.marcada.png>
-
-Logo em seguida a navegação direciona o usuario a pagina de Login, requisitando os dados de acesso:
-
-| E-mail | Senha |
-| ------------- | ------------- |
-
-<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t7-teamshirt/blob/deca0e68e0b822f74648a63cf676a5488b5edda3/docs/img/loginnew.png>
-
-Ao clicar em Entrar, o usuario resgistrado será direcionado para a pagina Home.
-
-<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t7-teamshirt/blob/4ca8588a1018ae5d13cf9f386d9a0bcdfa9895f6/docs/img/home.logada.png >
-
-| Código do Teste  | Descrição | Score |
-| ------------- | ------------- | ------------|
-| CT-02 | Login | 3 |
 
 
 
 
  
 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
+
